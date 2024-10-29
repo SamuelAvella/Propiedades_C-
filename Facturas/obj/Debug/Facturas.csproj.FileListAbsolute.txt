@@ -1,0 +1,7 @@
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Propiedades\Facturas\bin\Debug\Facturas.exe.config
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Propiedades\Facturas\bin\Debug\Facturas.exe
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Propiedades\Facturas\bin\Debug\Facturas.pdb
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Propiedades\Facturas\obj\Debug\Facturas.csproj.AssemblyReference.cache
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Propiedades\Facturas\obj\Debug\Facturas.csproj.CoreCompileInputs.cache
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Propiedades\Facturas\obj\Debug\Facturas.exe
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Propiedades\Facturas\obj\Debug\Facturas.pdb

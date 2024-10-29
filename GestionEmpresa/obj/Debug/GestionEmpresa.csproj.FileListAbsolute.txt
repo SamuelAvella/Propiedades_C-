@@ -1,0 +1,7 @@
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Propiedades\GestionEmpresa\bin\Debug\GestionEmpresa.exe.config
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Propiedades\GestionEmpresa\bin\Debug\GestionEmpresa.exe
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Propiedades\GestionEmpresa\bin\Debug\GestionEmpresa.pdb
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Propiedades\GestionEmpresa\obj\Debug\GestionEmpresa.csproj.AssemblyReference.cache
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Propiedades\GestionEmpresa\obj\Debug\GestionEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Propiedades\GestionEmpresa\obj\Debug\GestionEmpresa.exe
+C:\Users\saveper1907\Desktop\2DAM\DI\C#\Propiedades\GestionEmpresa\obj\Debug\GestionEmpresa.pdb
